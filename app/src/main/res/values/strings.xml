@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Service Demo</string>
+    <string name="app_tag">service_demo</string>
+</resources>
